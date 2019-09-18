@@ -1,2 +1,2 @@
 # Quotes
-This application is quoting software written in CakePHP.
+This application is quoting software written in CakePHP
